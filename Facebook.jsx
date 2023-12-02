@@ -9,7 +9,7 @@ function Facebook() {
             <div className="boxlogin">
                 <div className="subHeader">
                     <h1 className="header">Create a new account</h1>
-                    <h2 className="header2">it's quick and easy</h2>
+                    <h2 className="header3">it's quick and easy</h2>
                 </div>
                 <div>
                     <form>
