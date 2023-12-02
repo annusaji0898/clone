@@ -27,8 +27,8 @@ function Facebook() {
                             <label for="date of birth">Date of birth ? </label>
                         </div>
                         <div className="dateDetails">
-                            <input type="number"></input>
-                            <input type="number"></input>
+                            <input type="number1"></input>
+                            <input type="number2"></input>
                             <input type="number"></input>
                         </div>
                         <div className="gender">
